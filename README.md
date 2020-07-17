@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **DaniHalfin/DaniHalfin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hi there,
 
 I'm Dani, a Content Developer\Technical writer currently working in the Microsoft 365 security space @ Microsoft.
 I also do occasional coding 😅
