@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Dani, a Content Developer\Technical writer, currently working in the Microsoft 365 security space @ Microsoft.
+I'm Dani, a Program Manager, currently working in the Azure Identity space @ Microsoft.
 I also do occasional coding 😅
 
-💬 Ask me about content development and publishing, Microsoft 365, PowerShell, and UX.
+💬 Ask me about content development and publishing, program management, Azure Identity, PowerShell, and UX.
 
 📫 You can reach me on [Twitter🐦](https://twitter.com/dani_half) or [LinkedIn🏢](https://www.linkedin.com/in/danihalf/).
